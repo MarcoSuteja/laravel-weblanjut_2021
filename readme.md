@@ -1,3 +1,3 @@
-ini adalah contoh file
-f
-f
+# ini adalah contoh latiha
+- balalalba 
+## contoh latihan ke 2
