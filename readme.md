@@ -1,5 +1,1 @@
-# ini adalah contoh latiha
-- balalalba 
-## contoh latihan ke 2
--sssss
-## sshsh
+# ini adalah contoh latihan
